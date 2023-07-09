@@ -1,0 +1,5 @@
+C:\Users\admin\source\repos\PRACTICEPROBLEMSDAY1\DATASTRUCTURES\obj\Debug\net6.0\DATASTRUCTURES.csproj.AssemblyReference.cache
+C:\Users\admin\source\repos\PRACTICEPROBLEMSDAY1\DATASTRUCTURES\obj\Debug\net6.0\DATASTRUCTURES.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\PRACTICEPROBLEMSDAY1\DATASTRUCTURES\obj\Debug\net6.0\DATASTRUCTURES.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\PRACTICEPROBLEMSDAY1\DATASTRUCTURES\obj\Debug\net6.0\DATASTRUCTURES.AssemblyInfo.cs
+C:\Users\admin\source\repos\PRACTICEPROBLEMSDAY1\DATASTRUCTURES\obj\Debug\net6.0\DATASTRUCTURES.csproj.CoreCompileInputs.cache
